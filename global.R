@@ -6,7 +6,7 @@ library(d3heatmap)
 
 # See https://ttso.shinyapps.io/altm2016top100
 
-# Read in downloaded Altmetric article data and merge affiliation data
+# Read in downloaded Altmetric article and affiliation data
 top <- read_excel("Top1002016articledata.xlsx")
 top <- top[!is.na(top$Position),]
 
