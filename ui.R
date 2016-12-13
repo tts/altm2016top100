@@ -30,7 +30,7 @@ https://dx.doi.org/10.6084/m9.figshare.c.3590951.v1 Retrieved: 09 11, Dec 13, 20
                  )
         ),
         tags$div(class="header", checked=NA,
-                 tags$a(href="https://gist.github.com/tts/c6f8cb8a66f1bb9a21f0", "R source code"))
+                 tags$a(href="https://github.com/tts/altm2016top100", "R source code"))
       ),
       box(
         title = "Average metrics by subject",
